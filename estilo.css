@@ -12,3 +12,11 @@
             resize: both;
             overflow: scroll;
         }
+        /* main > article{
+            display: grid;
+            place-items: center;
+        }
+        h1{
+            background-color: yellowgreen;
+            color: aqua;
+        } */
